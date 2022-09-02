@@ -22,20 +22,18 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Microsoft Office",
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Google Platforms",
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Accounting, Finance, and Management Information Systems (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +41,66 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa",
+      "position": "ICS 390: Computing Ethics, Assistant Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2021-08-01",
+      "endDate": "2021-12-30",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted one-on-one with students during weekly tutoring hours to help them navigate through the challenges in class and homework",
+        "Planed and instructed one week of an upper-division course on ethical theories, and one week of a lower-division course on the application of Microsoft Excel"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "McDonald’s",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2018-07-01",
+      "endDate": "2020-03-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provided extraordinary service to customers by completing their orders efficiently and accurately while coordinating with colleagues",
+        "Handled customer complaints and busy hours with customer centricity and problem-solving skills"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Accounting Club ",
+      "website": "https://acuhmanoa.org/",
+      "position": "F22 Director of Professional Development",
+      "startDate": "2021-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Coordinate a dozen of professional development events, including office tours, workshops, and professional interactions to help members develop on-demand soft skills and strengthen their network",
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Beta Alpha Psi",
+      "website": "https://www.bapuhm.org/",
+      "position": "F22 publicity chair",
+      "startDate": "2022-02-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Manage social media and post regularly to maintain student relations and build club cohesion",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
